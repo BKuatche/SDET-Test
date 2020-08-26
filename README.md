@@ -6,11 +6,11 @@
 
 1- the api is not secure
 
-2 - the json response is not in correct format 
+2 - the json response for is not correct 
 
   Expected Response
 ```
-   {
+{
   id: 101,
   title: 'foo',
   body: 'bar',
