@@ -6,7 +6,7 @@
 
 1- the api is not secure
 
-2 - the json response for is not correct 
+2 - the json response format is not correct 
 
   Expected Response
 ```
@@ -29,3 +29,5 @@ Actual Response
 }
 
 ```
+
+I would not have sign off for release into production 
